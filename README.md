@@ -39,8 +39,120 @@ Seluruh proses desain dilakukan menggunakan tools **Figma**, dimulai dari tahap 
 ### 1️⃣ Storyboard
 Storyboard berfungsi untuk menggambarkan alur cerita dan interaksi pengguna terhadap aplikasi.  
 Menunjukkan bagaimana pengguna memulai, menavigasi, dan menggunakan fitur-fitur utama.  
-📂 Folder: `/storyboard`  
-📸 Contoh: `storyboard-login.png`, `storyboard-playmusic.png`
+ 
+📸 Foto : 
+
+<img width="1536" height="1024" alt="Story Boarding Application" src="https://github.com/user-attachments/assets/832e104f-047f-4a1d-9bc6-f4d16e208dbc" />
+
+---
+
+# 🎬 STORYBOARD – KYYN MUSIC
+
+## 📖 Deskripsi Umum
+
+Storyboard ini menggambarkan **alur ide dan proses pengembangan aplikasi “Kyyn Music”** sejak tahap munculnya inspirasi hingga aplikasi siap digunakan dan diapresiasi oleh pengguna.
+Storyboard berfungsi untuk menjelaskan *journey* atau perjalanan ide Rizky (dalam cerita digambarkan sebagai “Rafi”) dari awal pemikiran hingga tahap final produk.
+
+Tujuan dari storyboard ini adalah untuk memvisualisasikan **alur berpikir desainer dan pengembang aplikasi**, serta menampilkan konteks penggunaan aplikasi di dunia nyata (user scenario).
+
+---
+
+## 🧩 Panel 1 — Munculnya Ide
+
+**Judul:** *Rafi Contemplates Creating App*
+
+* **Deskripsi Scene:** Diceritakan seorang pengguna (Rafi) sedang bersepeda sambil berpikir, *“Why isn’t there an app for Islamic music with a modern, simple interface?”*
+* **Makna:**
+  Dari aktivitas sehari-hari muncul inspirasi untuk menciptakan aplikasi musik Islami yang sederhana namun modern.
+* **Konsep UX yang diterapkan:** *Empathy mapping* — memahami kebutuhan pengguna terhadap aplikasi yang belum tersedia.
+
+---
+
+## 🧩 Panel 2 — Perumusan Ide
+
+**Judul:** *Rafi’s Idea Takes Shape*
+
+* **Deskripsi Scene:** Rafi mulai menuangkan idenya ke laptop. Ia mulai menggambar konsep dasar dan menulis fitur utama aplikasi.
+* **Makna:**
+  Tahapan ini menggambarkan proses *brainstorming* dan perancangan awal aplikasi sebelum masuk ke desain wireframe.
+* **Konsep UX:** *Ideation* — menentukan fungsi, alur, dan fitur utama (misalnya: playlist, pemutar lagu, dan login system).
+
+---
+
+## 🧩 Panel 3 — Desain Awal (Splash Screen & Login)
+
+**Judul:** *Rafi Sketches Splash Screen and Login Page*
+
+* **Deskripsi Scene:**
+  Rafi mendesain tampilan awal aplikasi, yaitu **Splash Screen** dengan nama “Kyyn Music” dan ikon not musik 🎵, serta **halaman login** dengan tombol masuk dan daftar menggunakan akun Google atau Facebook.
+* **Makna:**
+  Tahapan ini menggambarkan perancangan tampilan visual dasar yang kemudian berkembang menjadi *Wireframe dan UI Design*.
+* **Detail Visual:**
+
+  * Latar belakang: warna gelap elegan (#141414).
+  * Logo: ikon musik minimalis di tengah.
+  * Font: *Poppins Bold 28 pt*, warna putih.
+  * Tombol login dengan radius 10 px dan warna utama (#1DB954).
+
+---
+
+## 🧩 Panel 4 — Pengujian Aplikasi
+
+**Judul:** *Rafi Tests the App*
+
+* **Deskripsi Scene:**
+  Setelah membuat versi awal, Rafi mulai menguji aplikasi dengan membuka halaman playlist seperti *New Playlist, Recently Played, Favorites*.
+* **Makna:**
+  Ini menunjukkan proses **UI Testing dan prototyping** — menguji apakah tampilan dan interaksi sudah berjalan sesuai rencana.
+* **Konsep UX:** *Testing Phase* dari *Design Thinking Process* untuk memastikan pengalaman pengguna sesuai ekspektasi.
+
+---
+
+## 🧩 Panel 5 — Umpan Balik Pengguna
+
+**Judul:** *Rafi’s Friends Appreciate the App*
+
+* **Deskripsi Scene:**
+  Teman-teman Rafi mencoba aplikasi dan memberi komentar positif:
+  *“Bro, this app is perfect for listening to zikr before bed.”*
+* **Makna:**
+  Menunjukkan keberhasilan aplikasi dalam memenuhi kebutuhan pengguna Muslim yang ingin mendengarkan musik atau zikir dengan mudah.
+* **Prinsip UX:** *User Feedback & Validation* — masukan pengguna menjadi acuan perbaikan.
+
+---
+
+## 🧩 Panel 6 — Hasil Akhir & Refleksi
+
+**Judul:** *Rafi’s Satisfied with the Outcome*
+
+* **Deskripsi Scene:**
+  Rafi merasa puas melihat hasil kerjanya. Ia merenung di malam hari sambil berkata,
+  *“It’s amazing how a simple idea while cycling turned into something helpful.”*
+* **Makna:**
+  Scene ini menjadi penutup, menunjukkan bahwa ide kecil yang muncul dari kegiatan sehari-hari bisa berkembang menjadi aplikasi bermanfaat.
+* **Konsep UX:** *Reflection & Outcome* — tahap evaluasi dan dokumentasi hasil akhir.
+
+---
+
+## 🧠 Analisis Storyboard Berdasarkan Prinsip Desain UX
+
+| Tahapan UX    | Scene   | Tujuan Desain                                               |
+| ------------- | ------- | ----------------------------------------------------------- |
+| **Empathize** | Panel 1 | Menemukan kebutuhan pengguna yang belum terpenuhi.          |
+| **Define**    | Panel 2 | Menentukan permasalahan utama dan fitur yang akan dibuat.   |
+| **Ideate**    | Panel 3 | Mendesain solusi visual melalui splash screen dan login UI. |
+| **Prototype** | Panel 4 | Membangun dan menguji tampilan awal aplikasi.               |
+| **Test**      | Panel 5 | Mendapatkan umpan balik dari pengguna nyata.                |
+| **Reflect**   | Panel 6 | Evaluasi dan penyempurnaan berdasarkan hasil akhir.         |
+
+---
+
+## ✨ Kesimpulan Storyboard
+
+Storyboard “Kyyn Music” menunjukkan **alur logis pengembangan aplikasi** dari ide sederhana hingga aplikasi siap digunakan.
+Setiap adegan merepresentasikan tahap-tahap utama dalam **metodologi desain thinking**, yaitu memahami pengguna, membuat ide, menguji, dan menghasilkan solusi nyata.
+
+Aplikasi ini bukan hanya sekadar pemutar musik, tetapi juga membawa nilai Islami dan spiritualitas dengan pendekatan teknologi modern yang sederhana dan mudah digunakan.
 
 ---
 
