@@ -49,7 +49,8 @@ Menunjukkan bagaimana pengguna memulai, menavigasi, dan menggunakan fitur-fitur 
 Tahap awal yang menampilkan struktur dasar aplikasi, meliputi tata letak menu, navigasi, dan elemen penting.    
 📸 foto :
 
-<img width="351" height="126" alt="Wireframe" src="https://github.com/user-attachments/assets/ccec5d39-939e-4569-bdf0-1aeb4b8d21c6" />
+<img width="351" height="126" alt="Wireframe" src="https://github.com/user-attachments/assets/752c4b6c-f4b6-4373-81a4-e10dba112d73" />
+
 
 #### 📘 1. Pengertian Umum
 
