@@ -163,8 +163,131 @@ Desain ini masih low-fidelity (tanpa warna & gambar), bertujuan untuk memastikan
 
 ### 3️⃣ User Interface (UI)
 Menampilkan rancangan visual aplikasi, termasuk warna, ikon, tipografi, dan elemen interaktif.  
-📂 Folder: `/ui`  
-📸 Contoh: `ui-home.png`, `ui-playlist.png`
+
+📸 Foto : 
+
+<img width="329" height="144" alt="Ui Application" src="https://github.com/user-attachments/assets/ba2ab145-7ee2-46ee-84ee-713353a4f576" />
+
+
+### 🧭 1. Pengertian Umum
+
+Pada tahap ini, desain aplikasi **Kyyn Music** sudah dikembangkan dari *wireframe sederhana* menjadi **desain antarmuka yang lengkap dan berwarna (high fidelity UI)**.
+Tujuannya untuk menampilkan **tampilan nyata aplikasi musik modern** dengan gaya minimalis, clean, dan berfokus pada kenyamanan pengguna saat menjelajah musik.
+
+---
+
+### 📱 2. Struktur Tampilan (Dari Kiri ke Kanan)
+
+Terdapat **7 tampilan utama (screen)** yang menggambarkan *flow* dari awal masuk aplikasi sampai mendengarkan musik.
+
+---
+
+#### 🖥️ **1. Splash Screen / Opening Page**
+
+* Latar belakang: **biru tua**.
+* Teks utama: **“Kyyn Music”** dengan warna pink lembut.
+* Ikon: **logo musik** (not balok dalam lingkaran).
+* Teks kecil di bawah logo: “Listen, Vibe and Enjoy”.
+* Fungsi: memperkenalkan identitas aplikasi sebelum masuk ke halaman login.
+* Tampilan ini memberikan kesan profesional dan elegan.
+
+---
+
+#### 🔑 **2. Halaman Login / Register**
+
+* Warna latar putih bersih, dengan aksen merah muda.
+* Komponen:
+
+  * Input field: *Email* dan *Password*.
+  * Tombol utama: **LOGIN** berwarna pink.
+  * Tombol login alternatif: **Google dan Facebook** dengan ikon bulat.
+* Fungsi: pengguna bisa masuk ke akun mereka atau daftar baru.
+* Desain ini simpel, modern, dan responsif.
+
+---
+
+#### 📂 **3. Halaman Playlist / Library**
+
+* Terdapat tab navigasi di bagian atas dengan kategori seperti:
+
+  * *My Playlist*, *Favorite Songs*, *Recently Played*.
+* Latar belakang putih dengan list item bergaris.
+* Di bawah ada mini player (lagu yang sedang diputar) dengan gambar album kecil.
+* Fungsi: tempat utama bagi pengguna untuk melihat koleksi lagu pribadi mereka.
+
+---
+
+#### 🎶 **4. Halaman List Lagu**
+
+* Layout menampilkan daftar lagu dalam satu playlist.
+* Setiap baris berisi nama lagu, artis, dan ikon play.
+* Mini player di bawah tetap aktif, menampilkan lagu yang sedang dimainkan.
+* Fungsi: menampilkan isi playlist secara lengkap.
+
+---
+
+#### 🧑‍🎤 **5. Halaman Discover / Explore**
+
+* Terdapat galeri album dari berbagai artis.
+* Gaya tampilan grid (kotak-kotak) dengan gambar album berwarna-warni.
+* Tujuan: pengguna bisa menemukan lagu atau artis baru.
+* Warna latar lembut dengan nuansa putih dan pink muda.
+
+---
+
+#### 🎧 **6. Halaman Now Playing (Music Player)**
+
+* Elemen utama:
+
+  * Gambar album berukuran besar di tengah.
+  * Tombol kontrol (play, pause, next, previous).
+  * Garis progress bar di bawah.
+* Latar belakang artistik berwarna lembut dengan pola gelombang (aesthetic style).
+* Fungsi: tempat pengguna mendengarkan lagu dengan tampilan interaktif.
+
+---
+
+#### 🏠 **7. Halaman Home / Recommendation**
+
+* Menampilkan berbagai konten rekomendasi:
+
+  * Playlist populer,
+  * Lagu trending,
+  * Album terbaru.
+* Di bagian bawah ada navigasi player seperti sebelumnya.
+* Tujuan: memudahkan pengguna menemukan musik favorit baru.
+
+---
+
+### 🎯 3. Tujuan Desain UI
+
+Desain ini dibuat untuk:
+
+* Menampilkan hasil akhir dari rancangan wireframe dalam bentuk realistis.
+* Menggambarkan **alur navigasi penuh** dari *login* sampai *memutar lagu*.
+* Menentukan **style visual final** aplikasi: warna, ikon, font, dan tata letak.
+
+---
+
+### 🧠 4. Prinsip Desain yang Diterapkan
+
+1. **Consistency:** setiap halaman memiliki gaya warna dan ikon serupa.
+2. **Accessibility:** teks mudah dibaca, tombol besar dan kontras.
+3. **Aesthetic & Simplicity:** kombinasi warna pink, putih, dan biru gelap menimbulkan kesan elegan dan muda.
+4. **Usability:** pengguna dapat berpindah halaman dengan cepat dan intuitif.
+
+---
+
+### 💡 5. Kesimpulan
+
+Desain UI *Kyyn Music* menampilkan visual yang profesional dan menarik.
+Aplikasi ini membawa pengalaman musik yang:
+
+* Mudah digunakan (user-friendly),
+* Estetis (warna cerah dan harmonis),
+* Modern (sesuai tren aplikasi musik seperti Spotify atau Apple Music).
+
+Tahap ini menunjukkan **hasil jadi dari desain visual**, sebelum masuk ke proses pengujian UX atau implementasi di pemrograman mobile.
 
 ---
 
