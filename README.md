@@ -288,11 +288,6 @@ Tujuannya untuk menampilkan **tampilan nyata aplikasi musik modern** dengan gaya
 
 ---
 
-Siap 💪 berikut **lanjutan penjelasan lengkap tahap kedua dan ketiga** — bagian **UI Design dan Mockup Application** untuk proyek **Kyyn Music**.
-Bagian ini menyatu secara profesional dengan penjelasan sebelumnya (Wireframe & Storyboard), sehingga membentuk dokumentasi desain aplikasi yang utuh dan rapi untuk README GitHub atau laporan tugas ke dosen.
-
----
-
 ## 🎨 3. USER INTERFACE (UI DESIGN)
 
 ### 🧭 Deskripsi Umum
@@ -483,14 +478,7 @@ Tahap ini menunjukkan **hasil jadi dari desain visual**, sebelum masuk ke proses
 
 ---
 
-### 4️⃣ User Experience (UX)
-Menjelaskan alur interaksi pengguna dengan aplikasi dan flow dari setiap fitur utama.  
-📂 Folder: `/ux`  
-📄 File tambahan: `user-flow.pdf` atau `prototype-link.txt`
-
----
-
-### 5️⃣ Mockup
+### 4️⃣ Mockup
 Mockup merupakan tampilan desain akhir yang sudah menyerupai aplikasi nyata.  
 Berfungsi sebagai visualisasi akhir sebelum tahap implementasi.  
 
@@ -637,11 +625,108 @@ Frame 51 menunjukkan bahwa aplikasi **Kyyn Music** sudah mencapai tahap desain a
 Desainnya memadukan **estetika minimalis, navigasi intuitif, dan warna khas yang energik** untuk meningkatkan pengalaman pengguna.
 
 ---
+### 5️⃣ User Experience (UX)
+Menjelaskan alur interaksi pengguna dengan aplikasi dan flow dari setiap fitur utama.  
 
-### 6️⃣ Splash Screen
-Tampilan awal aplikasi saat pertama kali dibuka.  
-📂 Folder: `/splash-screen`  
-📸 Contoh: `splash-screen.png`
+###  Splash Screen Application 
+
+📸 video : 
+
+[![Tonton Video di YouTube](https://img.youtube.com/vi/XgZ_m_nHtj8/0.jpg)](https://youtu.be/XgZ_m_nHtj8)
+
+
+---
+
+# 🎧 Penjelasan UX (User Experience) — *Kyyn Music Application*
+
+## 🧭 1. Pengertian UX dalam Konteks Aplikasi Kyyn Music
+
+**UX (User Experience)** adalah pengalaman keseluruhan yang dirasakan pengguna saat berinteraksi dengan aplikasi — mulai dari tampilan awal (Splash Screen), navigasi, kemudahan penggunaan, hingga kepuasan setelah menggunakan aplikasi.
+
+Dalam *Kyyn Music*, UX difokuskan pada **kenyamanan pengguna Muslim** agar bisa mendengarkan musik atau zikir Islami dengan cara yang:
+
+* mudah diakses,
+* tidak membingungkan,
+* tampilannya tenang dan modern.
+
+---
+
+## 🪄 2. Tujuan Desain UX
+
+Desain UX aplikasi *Kyyn Music* memiliki beberapa tujuan utama:
+
+1. **Meningkatkan kenyamanan pengguna** dalam mencari dan memutar lagu Islami.
+2. **Membuat navigasi sederhana** agar pengguna dari segala usia mudah memahami.
+3. **Menonjolkan nilai spiritual dan ketenangan**, bukan sekadar hiburan.
+4. **Menjaga keserasian visual** antara warna, ikon, dan animasi agar tidak mengganggu fokus.
+
+---
+
+## 🎬 3. Analisis UX Berdasarkan Video Splash Screen
+
+### 🧩 a. Elemen Visual
+
+* **Warna Dominan:** Hitam pekat (#000000) dan hijau khas musik (#1DB954).
+  ➤ Tujuan: warna hitam memberi kesan elegan dan tenang, hijau melambangkan harmoni dan kesegaran (juga identik dengan Islam).
+* **Font:** *Poppins Bold* untuk nama aplikasi, *Poppins Regular* untuk tagline.
+  ➤ Ukuran Font:
+
+  * Nama aplikasi: 32 pt
+  * Tagline: 18 pt
+* **Logo:** Ikon not musik minimalis muncul di tengah dengan animasi *fade-in* ±2 detik.
+  ➤ Tujuan: memberi efek profesional dan menenangkan saat pengguna membuka aplikasi pertama kali.
+
+### 🧩 b. Transisi dan Animasi
+
+* Durasi total: ±5 detik.
+* Transisi dari gelap → logo muncul → teks muncul → fade-out menuju halaman login.
+  ➤ Ini menciptakan pengalaman yang **lembut dan tidak mengejutkan**, sesuai dengan prinsip *calm UX*.
+
+### 🧩 c. Pengalaman Pengguna
+
+Saat pertama kali membuka aplikasi, pengguna akan:
+
+1. Melihat animasi logo *Kyyn Music* yang halus (memberi kesan profesional).
+2. Merasakan atmosfer tenang dari kombinasi warna gelap dan musik latar ringan.
+3. Secara alami menunggu masuk ke halaman utama tanpa perlu klik apa pun.
+
+Hal ini menunjukkan penerapan prinsip **“First Impression Experience”** yang baik — karena pengguna langsung merasa aplikasi ini simpel, halus, dan berkualitas.
+
+---
+
+## 🧠 4. Prinsip UX yang Diterapkan
+
+| Prinsip UX           | Penjelasan                                                                       | Implementasi di Kyyn Music                                          |
+| -------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Usability**        | Aplikasi mudah digunakan tanpa perlu panduan rumit.                              | Tombol login besar dan jelas, ikon navigasi mudah dikenali.         |
+| **Simplicity**       | Tampilan tidak berlebihan dan fokus pada konten.                                 | Desain minimalis, latar polos, dan warna tenang.                    |
+| **Consistency**      | Elemen visual dan navigasi konsisten di setiap halaman.                          | Font, warna, dan ikon seragam di seluruh aplikasi.                  |
+| **Accessibility**    | Dapat digunakan oleh pengguna dari berbagai usia dan tingkat literasi teknologi. | Ukuran font besar dan kontras warna tinggi untuk keterbacaan.       |
+| **Feedback**         | Sistem memberi respon terhadap tindakan pengguna.                                | Transisi lembut saat berpindah dari Splash Screen ke halaman login. |
+| **Emotional Design** | Membuat pengguna merasa nyaman dan tenang.                                       | Animasi lambat, nada warna lembut, dan musik latar santai.          |
+
+---
+
+## 💡 5. Pengaruh UX terhadap Kepuasan Pengguna
+
+* Pengguna merasa **nyaman dan percaya** terhadap aplikasi sejak pertama kali dijalankan.
+* Proses login dan navigasi berlangsung **tanpa kebingungan**.
+* Aplikasi terasa **ringan dan tidak berlebihan secara visual**.
+* Suasana yang tercipta adalah **tenang, religius, dan fokus pada musik Islami.**
+
+---
+
+## 🧩 6. Kesimpulan
+
+UX *Kyyn Music* dibangun dengan pendekatan **“Sederhana namun bermakna.”**
+Dari video Splash Screen terlihat bahwa pengalaman pengguna diarahkan untuk:
+
+* Fokus pada konten utama (musik Islami).
+* Mendapat kesan profesional dan damai.
+* Menghindari gangguan visual dan navigasi rumit.
+
+Dengan desain UX seperti ini, *Kyyn Music* tidak hanya menjadi aplikasi pemutar musik, tapi juga sarana untuk menghadirkan ketenangan batin melalui pengalaman digital yang halus dan intuitif.
+
 
 ---
 
