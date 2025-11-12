@@ -10,7 +10,7 @@
 - **Program Studi** : Teknik Informatika  
 - **Mata Kuliah** : Pemrograman Mobile  
 - **Dosen Pembimbing** : Donny Maulana, S.Kom., M.M.S.I.  
-- **Kampus** : [Tuliskan nama kampusmu di sini]
+- **Kampus** : Universitas Pelita Bangsa
 
 ---
 
