@@ -381,8 +381,153 @@ Menjelaskan alur interaksi pengguna dengan aplikasi dan flow dari setiap fitur u
 ### 5️⃣ Mockup
 Mockup merupakan tampilan desain akhir yang sudah menyerupai aplikasi nyata.  
 Berfungsi sebagai visualisasi akhir sebelum tahap implementasi.  
-📂 Folder: `/mockup`  
-📸 Contoh: `mockup-home.png`, `mockup-player.png`
+
+📸 Foto :
+
+<img width="131" height="100" alt="Mockup Application" src="https://github.com/user-attachments/assets/33057a19-72df-4340-94d1-7a89ffdbbb93" />
+
+Oke 🔥 berarti kita lanjut ke **penjelasan detail untuk frame 51** — ini biasanya tahap **Mockup Application (Final UI Preview)** di Figma kamu.
+
+Agar sesuai konteks sebelumnya (Kyyn Music, frame 49 = wireframe, frame 50 = UI), maka **Frame 51** adalah tampilan final *mockup* atau *prototype visual* aplikasi yang memperlihatkan bentuk nyatanya di perangkat.
+Berikut penjelasan super detailnya 👇
+
+---
+
+## 📖 Deskripsi Umum
+
+Frame 51 adalah **hasil akhir desain aplikasi Kyyn Music** yang menampilkan tampilan realistis aplikasi di layar smartphone.
+Tujuannya adalah untuk **memvisualisasikan bagaimana antarmuka (UI)** akan terlihat setelah diimplementasikan, meliputi tata letak, warna, efek, dan interaksi utama.
+
+Frame ini dibuat di **Figma** dengan resolusi **1080 × 2400 px (aspect ratio 20:9)** — ukuran umum untuk layar smartphone modern (misalnya Samsung, Oppo, dan Xiaomi seri terbaru).
+
+---
+
+## 🎨 Struktur Utama Frame 51
+
+Frame ini menampilkan **3 tampilan utama aplikasi** dalam satu layar kerja (mockup layout):
+
+1. **Splash Screen**
+2. **Home / Playlist Page**
+3. **Now Playing Screen**
+
+Ketiga layar ditampilkan berdampingan dengan efek bayangan (*drop shadow*) untuk menampilkan kesan realistis seolah berada di perangkat sesungguhnya.
+
+---
+
+## 📱 1. Splash Screen
+
+### Elemen Visual:
+
+* **Background Color:** `#000000` (hitam pekat) untuk menonjolkan logo dan memberi kesan profesional.
+* **Logo:** “🎵 Kyyn Music” berada di tengah secara vertikal dan horizontal (center alignment).
+* **Font:**
+
+  * *Poppins ExtraBold, 28 pt, warna putih (#FFFFFF)*.
+  * Memberikan kesan kuat, modern, dan mudah dibaca di layar hitam.
+* **Transition effect:** pada prototipe diberi animasi *fade-in* selama **1.2 detik**.
+
+### Alasan Desain:
+
+* Latar gelap dengan teks terang membuat logo fokus dan menarik perhatian pengguna di awal penggunaan.
+* Ukuran besar memudahkan visibilitas di layar apa pun.
+
+---
+
+## 🏠 2. Home / Playlist Page
+
+### Layout dan Elemen:
+
+* **Header:** “Discover Music” (Poppins Bold, 22 pt, warna putih).
+* **Search Bar:**
+
+  * Bentuk rounded dengan radius **18 px**, warna `#2A2A2A`.
+  * Placeholder text “Search your song…” dengan warna abu-abu `#AAAAAA` (Poppins Regular, 14 pt).
+* **Playlist Section:**
+
+  * Setiap card berukuran **160 × 200 px**, sudut melengkung **15 px**.
+  * Memuat gambar cover album, nama lagu (14 pt bold), dan nama artis (12 pt regular).
+  * Teks berwarna putih, dengan bayangan ringan agar tetap terbaca di atas gambar.
+* **Mini Player (Floating Bottom Bar):**
+
+  * Lebar penuh (width 100%), tinggi **70 px**.
+  * Background semi-transparan `rgba(20,20,20,0.9)`.
+  * Ikon *Play/Pause* (40 px) dan teks lagu (14 pt).
+
+### Warna dan Font:
+
+| Elemen      | Warna   | Font           | Ukuran |
+| ----------- | ------- | -------------- | ------ |
+| Header      | #FFFFFF | Poppins Bold   | 22 pt  |
+| Text Lagu   | #FFFFFF | Roboto Medium  | 14 pt  |
+| Nama Artis  | #B3B3B3 | Roboto Regular | 12 pt  |
+| Tombol Play | #1DB954 | Icon Button    | 40 px  |
+
+### Alasan Desain:
+
+* Warna hijau (#1DB954) menonjol sebagai warna aksi (CTA).
+* Layout berbasis grid memudahkan pengguna menjelajah playlist.
+* Kontras tinggi antara teks dan latar belakang membantu keterbacaan.
+
+---
+
+## 🎧 3. Now Playing Screen
+
+### Struktur Komponen:
+
+1. **Album Art:**
+
+   * Ukuran **300 × 300 px**, posisi tengah layar.
+   * Rounded corner **10 px**, bayangan lembut (drop shadow blur 15 px).
+2. **Judul Lagu & Artis:**
+
+   * “Good Vibes Only” – Poppins SemiBold 18 pt (judul),
+     “Kyyn Beats” – Poppins Regular 14 pt (artis).
+3. **Progress Bar:**
+
+   * Garis tebal **2 px**, warna aktif hijau (#1DB954), background abu (#3A3A3A).
+   * Menunjukkan durasi lagu.
+4. **Tombol Kontrol Musik:**
+
+   * Ikon *Previous, Play/Pause, Next* berukuran **48 px**.
+   * Warna ikon aktif hijau, ikon pasif putih.
+5. **Bottom Navigation:**
+
+   * Menu tetap di bawah layar (Home, Search, Library, Profile).
+   * Warna aktif hijau (#1DB954), tidak aktif abu (#7A7A7A).
+
+---
+
+## 🧠 Prinsip UX yang Diterapkan
+
+| Prinsip         | Penerapan di Frame 51                                                          |
+| --------------- | ------------------------------------------------------------------------------ |
+| **Consistency** | Semua halaman memiliki warna, ikon, dan tata letak konsisten.                  |
+| **Feedback**    | Efek highlight pada tombol dan progress bar menandakan aksi pengguna.          |
+| **Visibility**  | Tombol utama (Play) diberi ukuran dan warna mencolok untuk fokus utama.        |
+| **Simplicity**  | Tata letak minimalis, hanya menampilkan elemen penting.                        |
+| **User Focus**  | Semua kontrol utama (Play, Next, Playlist) dapat dijangkau dengan satu jempol. |
+
+---
+
+## ✨ Efek & Detil Visual Frame 51
+
+| Elemen                   | Properti                                    | Nilai |
+| ------------------------ | ------------------------------------------- | ----- |
+| **Shadow Card**          | Blur                                        | 20 px |
+|                          | Opacity                                     | 0.2   |
+| **Rounded Button**       | Radius                                      | 12 px |
+| **Spacing antar elemen** | Padding                                     | 16 px |
+| **Icon Style**           | Flat Minimalist (Lucide/Feather icons)      |       |
+| **Font Combination**     | Poppins (UI Titles) + Roboto (Content Text) |       |
+| **Frame Size**           | 1080 × 2400 px                              |       |
+| **Alignment Grid**       | 8 px baseline grid system                   |       |
+
+---
+
+## 🧩 Ringkasan Frame 51
+
+Frame 51 menunjukkan bahwa aplikasi **Kyyn Music** sudah mencapai tahap desain akhir (*high-fidelity mockup*), yang siap digunakan sebagai acuan implementasi mobile (Android/iOS).
+Desainnya memadukan **estetika minimalis, navigasi intuitif, dan warna khas yang energik** untuk meningkatkan pengalaman pengguna.
 
 ---
 
