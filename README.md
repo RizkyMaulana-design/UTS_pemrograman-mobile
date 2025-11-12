@@ -176,6 +176,86 @@ Tujuannya untuk menampilkan **tampilan nyata aplikasi musik modern** dengan gaya
 
 ---
 
+Siap 💪 berikut **lanjutan penjelasan lengkap tahap kedua dan ketiga** — bagian **UI Design dan Mockup Application** untuk proyek **Kyyn Music**.
+Bagian ini menyatu secara profesional dengan penjelasan sebelumnya (Wireframe & Storyboard), sehingga membentuk dokumentasi desain aplikasi yang utuh dan rapi untuk README GitHub atau laporan tugas ke dosen.
+
+---
+
+## 🎨 3. USER INTERFACE (UI DESIGN)
+
+### 🧭 Deskripsi Umum
+
+UI (User Interface) Design dari **Kyyn Music** merupakan hasil pengembangan visual dari wireframe yang sebelumnya dibuat. Pada tahap ini, setiap elemen mulai diberikan **warna, tipografi, ikon, dan tata letak final** yang akan diterapkan dalam aplikasi.
+
+Desain UI ini menekankan **kesederhanaan (simplicity)** dan **modernitas**, dengan mengutamakan kemudahan interaksi pengguna.
+
+---
+
+### 🎨 Elemen Visual Utama
+
+1. **Warna Utama (Primary Color):**
+
+   * 🎵 **#141414 (Hitam pekat)** → digunakan sebagai latar utama, memberikan kesan elegan dan fokus pada konten.
+   * 🌈 **#1DB954 (Hijau Neon Spotify-like)** → digunakan pada tombol aksi utama seperti *Play*, *Next*, dan *Register*, untuk menonjolkan interaktivitas.
+   * ⚪ **#FFFFFF (Putih)** → warna teks utama di atas latar gelap agar mudah dibaca.
+
+2. **Tipografi / Font:**
+
+   * **Font Family:** *Poppins* dan *Roboto* (Sans-serif, modern, mudah dibaca).
+   * **Ukuran Font:**
+
+     * Judul besar (Header / App Name): **24–28 pt**, bold.
+     * Subjudul / Label Menu: **16–18 pt**, medium.
+     * Teks isi (deskripsi lagu, nama artis): **12–14 pt**, regular.
+     * Tombol (CTA): **16 pt**, semi-bold.
+   * **Line Height:** 1.4–1.6 untuk menjaga keterbacaan di layar kecil.
+
+3. **Layout & Komponen:**
+
+   * **Header:** Terdapat logo dan ikon menu navigasi (☰) di kiri atas.
+   * **Main Section:** Menampilkan daftar lagu, rekomendasi playlist, dan pencarian.
+   * **Bottom Navigation Bar:**
+
+     * Ikon “Home”, “Search”, “Library”, dan “Profile”.
+     * Warna ikon aktif: Hijau (#1DB954), ikon tidak aktif: Abu-abu (#7A7A7A).
+   * **Music Player Mini Bar:** Muncul di bagian bawah layar setiap kali lagu diputar, menampilkan cover, nama lagu, dan tombol play/pause.
+
+4. **Interaksi dan Navigasi:**
+
+   * Transisi antar halaman menggunakan animasi *slide* lembut (smooth transition 0.3–0.5s).
+   * Tombol *Play* berubah menjadi *Pause* secara dinamis.
+   * Navigasi intuitif dan konsisten di seluruh halaman.
+
+---
+
+### 📱 Tampilan Utama UI
+
+1. **Splash Screen**
+
+   * Latar belakang hitam dengan logo “Kyyn Music” di tengah.
+   * Animasi muncul logo (fade-in 1 detik).
+   * Font: *Poppins Bold 28 pt* warna putih.
+
+2. **Halaman Login**
+
+   * Dua input field dengan placeholder abu-abu terang.
+   * Tombol utama hijau terang dengan radius **12px** dan efek *shadow subtle*.
+   * Teks kecil “Forgot Password?” di bawah tombol login.
+
+3. **Home Page**
+
+   * Judul “Discover Music” di atas.
+   * Grid lagu: ukuran card **160×200 px**, sudut melengkung **15 px**.
+   * Teks nama lagu (14 pt) dan nama artis (12 pt).
+
+4. **Now Playing Page**
+
+   * Gambar cover album di tengah (300×300 px).
+   * Progress bar tipis (2 px).
+   * Tombol *Play/Pause* besar (ikon 48 px) di tengah bawah.
+
+---
+
 ### 📱 2. Struktur Tampilan (Dari Kiri ke Kanan)
 
 Terdapat **7 tampilan utama (screen)** yang menggambarkan *flow* dari awal masuk aplikasi sampai mendengarkan musik.
