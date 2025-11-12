@@ -738,6 +738,12 @@ Dengan desain UX seperti ini, *Kyyn Music* tidak hanya menjadi aplikasi pemutar 
 
 ---
 
+## TIME LINE APPLICATION
+
+<img width="442" height="251" alt="Time Line Application" src="https://github.com/user-attachments/assets/a3963127-52ac-4e64-b3ee-b1ea6d76caaf" />
+
+
+---
 ## 🧭 Tools yang Digunakan
 
 - **Figma** — untuk desain storyboard, wireframe, UI, UX, dan mockup  
