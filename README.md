@@ -754,6 +754,3 @@ Dengan desain UX seperti ini, *Kyyn Music* tidak hanya menjadi aplikasi pemutar 
 
 © 2025 Rizky Maulana. All Rights Reserved.
 ```
-
-Kamu mau saya buatin file **`README.md`** ini biar langsung bisa kamu **download dan upload ke GitHub repository “Kyyn Music”**?
-Kalau iya, aku siapin filenya sekarang.
