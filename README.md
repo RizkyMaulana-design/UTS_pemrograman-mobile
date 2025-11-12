@@ -642,7 +642,9 @@ Menjelaskan alur interaksi pengguna dengan aplikasi dan flow dari setiap fitur u
 
 📸 video :
 
-[![Tonton Video di YouTube](https://img.youtube.com/vi/XgZ_m_nHtj8/0.jpg)](https://youtu.be/XgZ_m_nHtj8)
+![rekam-layar-Sflash-Screen-3-bahasa (2)](https://github.com/user-attachments/assets/2303aa8c-b049-4590-ab02-e651e2847dfd)
+
+
 
 ---
 
