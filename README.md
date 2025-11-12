@@ -632,7 +632,7 @@ Menjelaskan alur interaksi pengguna dengan aplikasi dan flow dari setiap fitur u
 
 📸 video : 
 
-[![Tonton Video di YouTube](https://img.youtube.com/vi/MO3oJlYT1CW/0.jpg)](https://youtu.be/MO3oJlYT1CW)
+[![Tonton Video di YouTube](https://img.youtube.com/vi/gyHaqj275Zc/0.jpg)](https://youtu.be/gyHaqj275Zc)
 
 ---
 
