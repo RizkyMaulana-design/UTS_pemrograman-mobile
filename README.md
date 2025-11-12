@@ -635,6 +635,11 @@ Menjelaskan alur interaksi pengguna dengan aplikasi dan flow dari setiap fitur u
 [![Tonton Video di YouTube](https://img.youtube.com/vi/XgZ_m_nHtj8/0.jpg)](https://youtu.be/XgZ_m_nHtj8)
 
 
+
+###  Splash Screen 3 bahasa
+📸 video :
+[![Tonton Video di YouTube](https://img.youtube.com/vi/XgZ_m_nHtj8/0.jpg)](https://youtu.be/XgZ_m_nHtj8)
+
 ---
 
 # 🎧 Penjelasan UX (User Experience) — *Kyyn Music Application*
