@@ -386,11 +386,6 @@ Berfungsi sebagai visualisasi akhir sebelum tahap implementasi.
 
 <img width="131" height="100" alt="Mockup Application" src="https://github.com/user-attachments/assets/33057a19-72df-4340-94d1-7a89ffdbbb93" />
 
-Oke 🔥 berarti kita lanjut ke **penjelasan detail untuk frame 51** — ini biasanya tahap **Mockup Application (Final UI Preview)** di Figma kamu.
-
-Agar sesuai konteks sebelumnya (Kyyn Music, frame 49 = wireframe, frame 50 = UI), maka **Frame 51** adalah tampilan final *mockup* atau *prototype visual* aplikasi yang memperlihatkan bentuk nyatanya di perangkat.
-Berikut penjelasan super detailnya 👇
-
 ---
 
 ## 📖 Deskripsi Umum
